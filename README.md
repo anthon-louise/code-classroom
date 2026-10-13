@@ -143,4 +143,11 @@ Developed as an academic capstone project by:
 ### 🎥 Live Walkthrough
 If you are an employer, recruiter, or reviewer interested in seeing the system in action:
 - **Live Demo**: Available on request via **Google Meet** or **Zoom**.
-- **Contact**: Feel free to reach out through my GitHub profile or email.
+
+---
+
+## 📬 Contact
+
+- **Email**: anthonlouisenoynay123@gmail.com
+- **Facebook**: https://www.facebook.com/profile.php?id=61585875337215
+- **GitHub**: https://github.com/anthon-louise
