@@ -115,7 +115,7 @@ Instructors can inspect question difficulty, class pass rates, and identify spec
 ## ⚡ Key Engineering Highlights
 
 1. **Safe Code Execution**: Runs student code inside isolated Docker containers with memory and time limits to stop infinite loops and keep the server safe.
-2. **Dual-Layer Grading**: Tests both program output (correct answer) and code structure (like requiring loops, recursion, or specific functions using AST analysis).
+2. **Dual-Layer Grading**: Tests both program output (correct answer) and code structure (like requiring loops, conditions, using AST analysis).
 3. **Live Exam Activity Monitoring**: Tracks tab switches and paste actions in real time using Socket.io so teachers can check exam integrity.
 4. **Offline LAN Support**: Runs directly over the school local network (LAN), so students can take exams even without internet access.
 
