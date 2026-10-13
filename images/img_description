@@ -1,0 +1,31 @@
+# Image Descriptions
+
+## Landing Page (`images/landing/`)
+
+- **landing-hero.png**: Displays the Code Classroom landing hero section featuring the system tagline, quick start actions, and an interactive in-browser code editor preview.
+- **landing-role-focus.png**: Outlines the dedicated platform workflows tailored specifically for instructors and students.
+- **team-members.png**: Highlights the capstone project team members and project adviser behind the development of Code Classroom.
+
+---
+
+## Instructor View (`images/instructor/`)
+
+- **instructor-dashboard.png**: Shows the instructor main dashboard with active classrooms, join codes, and quick navigation shortcuts.
+- **problem-bank.png**: Displays the problem repository where instructors organize, filter, and manage coding challenges across categories.
+- **ai-problem-generation.png**: Illustrates the AI generation modal powered by Google Gemini to automatically produce coding problems, starter templates, and test cases.
+- **problem-authoring-verification.png**: Shows the problem creation workspace featuring Monaco Editor, test case configuration, and live sandbox solution verification.
+- **classroom-view.png**: Displays the classroom management view with enrolled student counts, unique join code, and scheduled assessments.
+- **item-analysis.png**: Presents class performance analytics and test case success rates to help instructors assess question difficulty and cohort progress.
+
+---
+
+## Student View (`images/student/`)
+
+- **student-todo.png**: Shows the student to-do list tracking assigned, missing, and completed programming assessments.
+- **avatar-customization.png**: Displays the interactive avatar editor allowing students to personalize their profile icon and border styles.
+- **code-playground.png**: Features an open sandbox IDE where students can freely write and execute code in Python, Java, or C with live terminal output.
+- **editor-settings.png**: Provides editor personalization options including light/dark color themes and adjustable font sizes.
+- **assessment-instructions.png**: Shows the pre-assessment briefing screen containing exam guidelines, time limits, and point values before starting.
+- **assessment-workspace.png**: Displays the live examination environment with problem instructions, code editor, timer countdown, and test case panels.
+- **assessment-test-passed.png**: Shows real-time automated test feedback confirming that all test cases have executed and passed successfully.
+- **assessment-results.png**: Displays the assessment completion screen featuring total score, passing status, and an interactive difficulty feedback poll.
